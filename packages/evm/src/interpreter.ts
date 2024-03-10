@@ -67,6 +67,7 @@ export interface Env {
   containerCode?: Uint8Array /** Full container code for EOF1 contracts */
   blobVersionedHashes: Uint8Array[] /** Versioned hashes for blob transactions */
   createdAddresses?: Set<string>
+  isEIP5806?: boolean
 }
 
 export interface RunState {

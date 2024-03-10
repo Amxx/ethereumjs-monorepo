@@ -122,6 +122,10 @@ export interface EVMRunCallOpts extends EVMRunOpts {
    * Optionally pass in an already-built message.
    */
   message?: Message
+
+  codeAddress?: Address
+
+  isEIP5806?: boolean
 }
 
 interface NewContractEvent {
