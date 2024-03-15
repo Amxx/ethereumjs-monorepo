@@ -461,7 +461,7 @@ export const EIPs = {
         comment: 'Deleate transaction',
         url: 'https://eips.ethereum.org/EIPS/eip-5806',
         status: Status.Draft,
-        minimumHardfork: Hardfork.Cancun,
+        minimumHardfork: Hardfork.Prague,
         requiredEIPs: [2718, 2930],
     },
     6780: {

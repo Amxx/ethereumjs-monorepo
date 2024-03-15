@@ -1,6 +1,6 @@
 import { Block } from '@nomicfoundation/ethereumjs-block';
 import { ConsensusType, Hardfork } from '@nomicfoundation/ethereumjs-common';
-import { BlobEIP4844Transaction, Capability, isBlobEIP4844Tx, isDelegateEIP5806Tx } from '@nomicfoundation/ethereumjs-tx';
+import { BlobEIP4844Transaction, Capability, isBlobEIP4844Tx, isDelegateEIP5806Tx, } from '@nomicfoundation/ethereumjs-tx';
 import { Account, Address, BIGINT_0, KECCAK256_NULL, bytesToHex, bytesToUnprefixedHex, equalsBytes, hexToBytes, short, } from '@nomicfoundation/ethereumjs-util';
 import debugDefault from 'debug';
 import { Bloom } from './bloom/index.js';
