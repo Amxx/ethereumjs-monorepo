@@ -57,12 +57,12 @@
   "dependencies": {
     "@nomicfoundation/ethereumjs-block": "5.0.4",
     "@nomicfoundation/ethereumjs-blockchain": "7.0.4",
-    "@nomicfoundation/ethereumjs-common": "4.0.4",
-    "@nomicfoundation/ethereumjs-evm": "2.0.4",
+    "@nomicfoundation/ethereumjs-common": "https://gitpkg.now.sh/Amxx/ethereumjs-monorepo/packages/common?features/eip-5806-nomiclabs",
+    "@nomicfoundation/ethereumjs-evm": "https://gitpkg.now.sh/Amxx/ethereumjs-monorepo/packages/evm?features/eip-5806-nomiclabs",
     "@nomicfoundation/ethereumjs-rlp": "5.0.4",
     "@nomicfoundation/ethereumjs-statemanager": "2.0.4",
     "@nomicfoundation/ethereumjs-trie": "6.0.4",
-    "@nomicfoundation/ethereumjs-tx": "5.0.4",
+    "@nomicfoundation/ethereumjs-tx": "https://gitpkg.now.sh/Amxx/ethereumjs-monorepo/packages/tx?features/eip-5806-nomiclabs",
     "@nomicfoundation/ethereumjs-util": "9.0.4",
     "debug": "^4.3.3",
     "ethereum-cryptography": "0.1.3"

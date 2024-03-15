@@ -115,6 +115,11 @@ exports.chains = {
                 block: null,
                 forkHash: null,
             },
+            {
+                name: 'prague',
+                block: null,
+                forkHash: null,
+            },
         ],
         bootstrapNodes: [
             {

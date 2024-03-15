@@ -45,9 +45,9 @@
     "tsc": "../../config/cli/ts-compile.sh"
   },
   "dependencies": {
-    "@nomicfoundation/ethereumjs-common": "4.0.4",
+    "@nomicfoundation/ethereumjs-common": "https://gitpkg.now.sh/Amxx/ethereumjs-monorepo/packages/common?features/eip-5806-nomiclabs",
     "@nomicfoundation/ethereumjs-statemanager": "2.0.4",
-    "@nomicfoundation/ethereumjs-tx": "5.0.4",
+    "@nomicfoundation/ethereumjs-tx": "https://gitpkg.now.sh/Amxx/ethereumjs-monorepo/packages/tx?features/eip-5806-nomiclabs",
     "@nomicfoundation/ethereumjs-util": "9.0.4",
     "@types/debug": "^4.1.9",
     "debug": "^4.3.3",

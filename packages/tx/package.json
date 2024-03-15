@@ -49,7 +49,7 @@
     "tsc": "../../config/cli/ts-compile.sh"
   },
   "dependencies": {
-    "@nomicfoundation/ethereumjs-common": "4.0.4",
+    "@nomicfoundation/ethereumjs-common": "https://gitpkg.now.sh/Amxx/ethereumjs-monorepo/packages/common?features/eip-5806-nomiclabs",
     "@nomicfoundation/ethereumjs-rlp": "5.0.4",
     "@nomicfoundation/ethereumjs-util": "9.0.4",
     "ethereum-cryptography": "0.1.3"
