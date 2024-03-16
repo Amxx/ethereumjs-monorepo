@@ -46,9 +46,9 @@
   },
   "dependencies": {
     "@nomicfoundation/ethereumjs-common": "https://gitpkg.now.sh/Amxx/ethereumjs-monorepo/packages/common?features/eip-5806-nomiclabs",
-    "@nomicfoundation/ethereumjs-statemanager": "2.0.4",
+    "@nomicfoundation/ethereumjs-statemanager": "https://gitpkg.now.sh/Amxx/ethereumjs-monorepo/packages/statemanager?features/eip-5806-nomiclabs",
     "@nomicfoundation/ethereumjs-tx": "https://gitpkg.now.sh/Amxx/ethereumjs-monorepo/packages/tx?features/eip-5806-nomiclabs",
-    "@nomicfoundation/ethereumjs-util": "9.0.4",
+    "@nomicfoundation/ethereumjs-util": "https://gitpkg.now.sh/Amxx/ethereumjs-monorepo/packages/util?features/eip-5806-nomiclabs",
     "@types/debug": "^4.1.9",
     "debug": "^4.3.3",
     "ethereum-cryptography": "0.1.3",

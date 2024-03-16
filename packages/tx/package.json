@@ -50,8 +50,8 @@
   },
   "dependencies": {
     "@nomicfoundation/ethereumjs-common": "https://gitpkg.now.sh/Amxx/ethereumjs-monorepo/packages/common?features/eip-5806-nomiclabs",
-    "@nomicfoundation/ethereumjs-rlp": "5.0.4",
-    "@nomicfoundation/ethereumjs-util": "9.0.4",
+    "@nomicfoundation/ethereumjs-rlp": "https://gitpkg.now.sh/Amxx/ethereumjs-monorepo/packages/rlp?features/eip-5806-nomiclabs",
+    "@nomicfoundation/ethereumjs-util": "https://gitpkg.now.sh/Amxx/ethereumjs-monorepo/packages/util?features/eip-5806-nomiclabs",
     "ethereum-cryptography": "0.1.3"
   },
   "peerDependencies": {

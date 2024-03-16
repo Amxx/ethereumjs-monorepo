@@ -39,11 +39,11 @@
     "tsc": "../../config/cli/ts-compile.sh"
   },
   "dependencies": {
-    "@nomicfoundation/ethereumjs-common": "4.0.4",
-    "@nomicfoundation/ethereumjs-rlp": "5.0.4",
-    "@nomicfoundation/ethereumjs-trie": "6.0.4",
-    "@nomicfoundation/ethereumjs-tx": "5.0.4",
-    "@nomicfoundation/ethereumjs-util": "9.0.4",
+    "@nomicfoundation/ethereumjs-common": "https://gitpkg.now.sh/Amxx/ethereumjs-monorepo/packages/common?features/eip-5806-nomiclabs",
+    "@nomicfoundation/ethereumjs-rlp": "https://gitpkg.now.sh/Amxx/ethereumjs-monorepo/packages/rlp?features/eip-5806-nomiclabs",
+    "@nomicfoundation/ethereumjs-trie": "https://gitpkg.now.sh/Amxx/ethereumjs-monorepo/packages/trie?features/eip-5806-nomiclabs",
+    "@nomicfoundation/ethereumjs-tx": "https://gitpkg.now.sh/Amxx/ethereumjs-monorepo/packages/tx?features/eip-5806-nomiclabs",
+    "@nomicfoundation/ethereumjs-util": "https://gitpkg.now.sh/Amxx/ethereumjs-monorepo/packages/util?features/eip-5806-nomiclabs",
     "ethereum-cryptography": "0.1.3"
   },
   "devDependencies": {

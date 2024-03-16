@@ -44,8 +44,8 @@
     "tsc": "../../config/cli/ts-compile.sh"
   },
   "dependencies": {
-    "@nomicfoundation/ethereumjs-rlp": "5.0.4",
-    "@nomicfoundation/ethereumjs-util": "9.0.4",
+    "@nomicfoundation/ethereumjs-rlp": "https://gitpkg.now.sh/Amxx/ethereumjs-monorepo/packages/rlp?features/eip-5806-nomiclabs",
+    "@nomicfoundation/ethereumjs-util": "https://gitpkg.now.sh/Amxx/ethereumjs-monorepo/packages/utils?features/eip-5806-nomiclabs",
     "lru-cache": "^10.0.0",
     "rust-verkle-wasm": "^0.0.1"
   },

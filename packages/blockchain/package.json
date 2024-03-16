@@ -39,13 +39,13 @@
     "tsc": "../../config/cli/ts-compile.sh"
   },
   "dependencies": {
-    "@nomicfoundation/ethereumjs-block": "5.0.4",
-    "@nomicfoundation/ethereumjs-common": "4.0.4",
-    "@nomicfoundation/ethereumjs-ethash": "3.0.4",
-    "@nomicfoundation/ethereumjs-rlp": "5.0.4",
-    "@nomicfoundation/ethereumjs-trie": "6.0.4",
-    "@nomicfoundation/ethereumjs-tx": "5.0.4",
-    "@nomicfoundation/ethereumjs-util": "9.0.4",
+    "@nomicfoundation/ethereumjs-block": "https://gitpkg.now.sh/Amxx/ethereumjs-monorepo/packages/block?features/eip-5806-nomiclabs",
+    "@nomicfoundation/ethereumjs-common": "https://gitpkg.now.sh/Amxx/ethereumjs-monorepo/packages/common?features/eip-5806-nomiclabs",
+    "@nomicfoundation/ethereumjs-ethash": "https://gitpkg.now.sh/Amxx/ethereumjs-monorepo/packages/ethash?features/eip-5806-nomiclabs",
+    "@nomicfoundation/ethereumjs-rlp": "https://gitpkg.now.sh/Amxx/ethereumjs-monorepo/packages/rlp?features/eip-5806-nomiclabs",
+    "@nomicfoundation/ethereumjs-trie": "https://gitpkg.now.sh/Amxx/ethereumjs-monorepo/packages/trie?features/eip-5806-nomiclabs",
+    "@nomicfoundation/ethereumjs-tx": "https://gitpkg.now.sh/Amxx/ethereumjs-monorepo/packages/tx?features/eip-5806-nomiclabs",
+    "@nomicfoundation/ethereumjs-util": "https://gitpkg.now.sh/Amxx/ethereumjs-monorepo/packages/util?features/eip-5806-nomiclabs",
     "debug": "^4.3.3",
     "ethereum-cryptography": "0.1.3",
     "lru-cache": "^10.0.0"
